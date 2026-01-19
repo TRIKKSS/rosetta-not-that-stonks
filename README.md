@@ -16,8 +16,9 @@ sudo pacman -S mitmproxy
 
 2. Install the **mitmproxy** Certificate Authority
 
+First, run mitmproxy once to generate the local CA certificate
+
 ```
-# First, run mitmproxy once to generate the local CA certificate
 mitmproxy
 ```
 
